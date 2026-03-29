@@ -1,4 +1,7 @@
 ## Sprint 2: Test Design
+<p align="left">
+  <img src="requirements.png" alt="requirements Welcome Screenshot" width="800">
+</p>
 
 ## 📋 Project Description
 Design and structuring of a comprehensive testing strategy for the "Car Sharing" module of the Urban Routes platform. The main focus consisted of the technical decomposition of complex requirements to guarantee full system coverage, using Equivalence Class Partitioning and Boundary Value Analysis techniques to optimize the execution of test cases.
