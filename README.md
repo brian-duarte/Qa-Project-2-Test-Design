@@ -30,3 +30,9 @@ Design and structuring of a comprehensive testing strategy for the "Car Sharing"
   <em>Visual Evidence: Checklist for Boundary Value Analysis and Equivalence Class Partitioning.</em>
 </p>
 
+[Flowchart of Speed Control in Shared Vehicle](https://drive.google.com/file/d/1pf5c-OPss9BNRhxzwHqGupG9FJdS1guA/view?usp=sharing)
+<p align="center">
+  <img src="formula.png" alt="formula" - Captura del Modal" width="350">
+  <br>
+  <em>Visual Evidence: Formula for travel duration.</em>
+</p>
