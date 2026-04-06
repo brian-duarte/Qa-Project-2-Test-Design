@@ -1,4 +1,4 @@
-## Sprint 2: Test Design
+## Qa-Project-2-Test-Design
 <p align="left">
   <img src="assets/images/requirements.png" alt="requirements Welcome Screenshot" width="800">
 </p>
